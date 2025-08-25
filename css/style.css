@@ -813,3 +813,72 @@ ul li + li{
 .active__link a:hover{
     color: #ED7173;
 }
+
+
+.example-work__2 h1{
+    color: #E7E7E7;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 54px;
+    padding: 62px 0 10px;
+}
+
+
+.example-work__texts{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+
+.example-work__2 .example-work__2-text__1{
+    color: #252525;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.example-work__2 .example-work__2-text__2{
+    color: #252525;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.example-work__container{
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+
+
+.example-work__videos{
+    padding: 60px 0 50px;
+}
+
+
+.example-work__cards__2{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding-bottom: 90px;
+}
+
+
+
+.example-work__card-item{
+    max-width: 360px;
+    max-height: 254px;
+}
+
+
+.example-work__card-item img{
+    transition: 0.3s;
+}
+
+
+.example-work__card-item img:hover{
+    opacity: 0.86;
+}
